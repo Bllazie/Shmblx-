@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main()
+{ 
+    int n = 10, m = 2;
+    printf("n = %d, m = %d", n, m);
+    printf("\nn+++m = %d", n+++m);
+    printf("\nn = %d, m = %d", n, m);
+    printf("\nm-->n = %d", m-->n);
+    printf("\nn = %d, m = %d", n, m);
+    printf("\nn-->m = %d", n-->m);
+    printf("\nn = %d, m = %d", n, m)/n;
+    float i1,i2,i2;
+    int d1,d2,d3;
+    scanf ("%f",d1);
+    scanf("%f",d2);
+    scanf("%f",d3);
+    scanf("%d",i1);
+    scanf("%d",i2);
+    scanf("%d",i3);
+    printf("d1=%.3f",d1);
+    printf("d2=%.3f",d2);
+    printf("d3=%.3f",d3);
+}
